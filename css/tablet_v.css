@@ -1,0 +1,9 @@
+.currency-table-container .right-arrow,
+.comision-table-container .left-arrow{ 
+    visibility: hidden;
+ }
+ 
+.bitcoin-img-container h2{
+    font-size: 3.6rem;
+    line-height: 3.6rem;
+}
